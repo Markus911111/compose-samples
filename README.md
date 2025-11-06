@@ -13,6 +13,15 @@ You can clone this repository or import the
 project from Android Studio following the steps
 [here](https://developer.android.com/jetpack/compose/setup#sample).
 
+## Building
+
+You can build all samples from the root directory:
+```bash
+./gradlew build
+```
+
+Or build individual samples by navigating to their directory. See [BUILD.md](BUILD.md) for more details.
+
 🧬 Samples
 ------------
 
